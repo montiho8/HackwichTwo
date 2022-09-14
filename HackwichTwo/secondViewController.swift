@@ -9,16 +9,19 @@ import UIKit
 
 class secondViewController: UIViewController {
 
+    @IBOutlet weak var firstLabel: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-    @IBAction func changeColorButtonPressed(_ sender: Any) {
+    @IBAction func changeColorButtonPressed(_ sender: Any)
+    {
     
-    
-    
+        
     
     }
     

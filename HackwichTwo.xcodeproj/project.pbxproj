@@ -16,7 +16,6 @@
 		8C6FACE728D1C17300566EA9 /* HackwichTwoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6FACE628D1C17300566EA9 /* HackwichTwoUITestsLaunchTests.swift */; };
 		8C6FACF428D1C57300566EA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6FACF328D1C57300566EA9 /* ViewController.swift */; };
 		8C6FACF628D1C59A00566EA9 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C6FACF528D1C59A00566EA9 /* Storyboard.storyboard */; };
-		8C6FACF828D1CBB000566EA9 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6FACF728D1CBB000566EA9 /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,7 +48,6 @@
 		8C6FACE628D1C17300566EA9 /* HackwichTwoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTwoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8C6FACF328D1C57300566EA9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8C6FACF528D1C59A00566EA9 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
-		8C6FACF728D1CBB000566EA9 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 				8C6FACCB28D1C17000566EA9 /* ContentView.swift */,
 				8C6FACF328D1C57300566EA9 /* ViewController.swift */,
 				8C6FACF528D1C59A00566EA9 /* Storyboard.storyboard */,
-				8C6FACF728D1CBB000566EA9 /* ViewControllerTwo.swift */,
 				8C6FACCD28D1C17300566EA9 /* Assets.xcassets */,
 				8C6FACCF28D1C17300566EA9 /* Preview Content */,
 			);
@@ -270,7 +267,6 @@
 				8C6FACF428D1C57300566EA9 /* ViewController.swift in Sources */,
 				8C6FACCC28D1C17000566EA9 /* ContentView.swift in Sources */,
 				8C6FACCA28D1C17000566EA9 /* HackwichTwoApp.swift in Sources */,
-				8C6FACF828D1CBB000566EA9 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

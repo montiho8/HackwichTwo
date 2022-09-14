@@ -40,15 +40,16 @@ class ViewController: UIViewController
     }
     
 
-    
-    @IBAction func clickMeButtonPressed(_ sender: Any)
+    @IBAction func pressMeTooButtonPressed(_ sender: Any)
     
     {
     
+    print("I got this!")
     
-        print("I Got This!")
     
     }
+    
+    
     
     
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C5C717428D1E5E500B8EA8F /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5C717328D1E5E500B8EA8F /* secondViewController.swift */; };
 		8C6FACCA28D1C17000566EA9 /* HackwichTwoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6FACC928D1C17000566EA9 /* HackwichTwoApp.swift */; };
 		8C6FACCC28D1C17000566EA9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6FACCB28D1C17000566EA9 /* ContentView.swift */; };
 		8C6FACCE28D1C17300566EA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C6FACCD28D1C17300566EA9 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C5C717328D1E5E500B8EA8F /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		8C6FACC628D1C17000566EA9 /* HackwichTwo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichTwo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C6FACC928D1C17000566EA9 /* HackwichTwoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTwoApp.swift; sourceTree = "<group>"; };
 		8C6FACCB28D1C17000566EA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				8C6FACCB28D1C17000566EA9 /* ContentView.swift */,
 				8C6FACF328D1C57300566EA9 /* ViewController.swift */,
 				8C6FACF528D1C59A00566EA9 /* Storyboard.storyboard */,
+				8C5C717328D1E5E500B8EA8F /* secondViewController.swift */,
 				8C6FACCD28D1C17300566EA9 /* Assets.xcassets */,
 				8C6FACCF28D1C17300566EA9 /* Preview Content */,
 			);
@@ -264,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C5C717428D1E5E500B8EA8F /* secondViewController.swift in Sources */,
 				8C6FACF428D1C57300566EA9 /* ViewController.swift in Sources */,
 				8C6FACCC28D1C17000566EA9 /* ContentView.swift in Sources */,
 				8C6FACCA28D1C17000566EA9 /* HackwichTwoApp.swift in Sources */,

@@ -15,7 +15,13 @@ class secondViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func changeColorButtonPressed(_ sender: Any) {
+    
+    
+    
+    
+    }
+    
     /*
     // MARK: - Navigation
 
